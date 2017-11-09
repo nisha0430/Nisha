@@ -4,7 +4,7 @@
   <groupId>org.tektutor</groupId>
   <artifactId>tektutor-hello-app</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>tektutor-hello-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
